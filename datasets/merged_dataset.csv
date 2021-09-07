@@ -1,0 +1,147 @@
+,Price,Make,Model,Trim,Mi,Year,Fuel type,Body type,Color,Power,Transmission,Park assist,Service history,Immobilizer,Cruise control
+0,"11,233 EUR",Mercury,Grand Marquis,NaN,"30,577km",1985,NaN,Sedan,Gray,87 kW(118 HP),Automatic,0,0,0,0
+1,"9,129 EUR",Mercury,Grand Marquis,NaN,"30,577km",1985,Petrol,NaN,Black,NaN,Automatic,0,0,0,0
+2,"3,511 EUR",Mercury,Grand Marquis,NaN,"69,201km",1985,Petrol,NaN,Gray,NaN,NaN,0,0,0,0
+3,"5,958 EUR",Mercury,Grand Marquis Wagon,NaN,"40,064km",1985,Petrol,NaN,Brown,NaN,NaN,0,0,0,0
+4,"4,364 EUR",Subaru,Pleo L Limited,NaN,"80,467km",1985,Petrol,Sedan,White,NaN,NaN,0,0,0,0
+5,"2,641 EUR",Subaru,Justy,NaN,"27,4966km",1985,Petrol,NaN,Black,NaN,Automatic,0,0,0,0
+6,"4,020 EUR",Subaru,Other,NaN,"45,0616km",1985,Petrol,NaN,White,NaN,NaN,0,0,0,0
+7,"2,408 EUR",Subaru,Other,NaN,"198,683km",1985,Petrol,NaN,Black,NaN,NaN,0,0,0,0
+8,"2,756 EUR",Honda,Civic,NaN,"136,794km",1985,Petrol,Sedan,White,NaN,Manual,0,0,0,0
+9,"3,100 EUR",Honda,Civic,NaN,"241,401km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+10,"2,181 EUR",Honda,Civic,NaN,"160,934km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+11,"5,161 EUR",Honda,Civic Hatchback,NaN,"17,881km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+12,"6,315 EUR",Honda,Civic Si,NaN,"17,702km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+13,"5,511 EUR",Honda,Civic,NaN,"93,341km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+14,"5,167 EUR",Honda,Civic Si,NaN,"804,672km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+15,"15,349 EUR",Bmw,E28 535i M5 Sport,NaN,"139,000km",1985,Petrol,Saloon,Red,NaN,Manual,0,0,0,0
+16,"10,033 EUR",Bmw,Cabrio,NaN,"141,400km",1985,Petrol,Cabrio,Red,NaN,Manual,0,0,0,0
+17,"26,517 EUR",Bmw,6 Series,NaN,"54,000km",1985,Petrol,Coupe,Black,NaN,Automatic,0,0,0,0
+18,"3,791 EUR",Nissan,Gloria,NaN,"241,401km",1985,Petrol,Sedan,White,NaN,Manual,0,0,0,0
+19,"4,014 EUR",Nissan,Sunny,NaN,"269,549km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+20,"4,014 EUR",Nissan,Sunny,NaN,"343,514km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+21,"29,660 EUR",Isuzu,Other,NaN,"175,000km",1985,Petrol,Sedan,White,NaN,Manual,0,0,0,0
+22,"27,800 EUR",Isuzu,Cabrio,NaN,"147,799km",1985,Petrol,Saloon,Brown,NaN,Manual,0,0,0,0
+23,"21,714 EUR",Mazda,Savanna,NaN,"77,717km",1985,Petrol,NaN,Gray,NaN,Manual,0,0,0,0
+24,"27,800 EUR",Mazda,Savanna,NaN,"62,535km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+25,"8,958 EUR",Volvo,740,NaN,"138,000km",1985,Petrol,NaN,Gray,NaN,Automatic,0,0,0,0
+26,"7,272 EUR",Mitsubishi,Canter,NaN,"37,000km",1985,Diesel,Truck,Blue,NaN,Manual,0,0,0,0
+27,"8,399 EUR",Mitsubishi,Fighter,NaN,"186,000km",1985,Diesel,Truck,Green,NaN,Manual,0,0,0,0
+28,"8,958 EUR",Mitsubishi,Canter,NaN,"41,320km",1985,Diesel,Truck,Blue,NaN,Manual,0,0,0,0
+29,"22,000 EUR",Chevrolet,Autres,NaN,"281,635km",1985,Petrol,NaN,Gray,NaN,Automatic,0,0,0,0
+30,"40,000 EUR",Chevrolet,K30,NaN,"5,000km",1985,Diesel,NaN,Gray,NaN,Manual,0,0,0,0
+31,"2,750 EUR",Chevrolet,Caprice,NaN,"999,999km",1985,Petrol,NaN,White,NaN,Automatic,0,0,0,0
+32,"14,000 EUR",Chevrolet,Autres,NaN,"185,075km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+33,"14,000 EUR",Chevrolet,Autres,NaN,"185,075km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+34,"16,900 EUR",Chevrolet,Canaro,NaN,"109,752km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+35,"26,800 EUR",Chevrolet,El Camino,NaN,"43,249km",1985,Petrol,NaN,Black,NaN,Automatic,0,0,0,0
+36,"16,900 EUR",Chevrolet,Camaro,NaN,"109,752km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+37,"56,140 EUR",Chevrolet,Chevy,NaN,"14,026km",1985,Petrol,Van,Blue,NaN,Automatic,0,0,0,0
+38,"14,950 EUR",Chevrolet,Chevy,NaN,"115,000km",1985,Petrol,Van,Blue,NaN,Automatic,0,0,0,0
+39,"19,999 EUR",Chevrolet,Caprice,NaN,"99,999km",1985,Petrol,NaN,Blue,NaN,Automatic,0,0,0,0
+40,"7,500 EUR",Chevrolet,Blazer,NaN,"134,000km",1985,Diesel,NaN,White,NaN,Automatic,0,0,0,0
+41,"20,000 EUR",Saab,E28 535i M5 Sport,NaN,"223,000km",1985,Petrol,Coupe,White,NaN,Manual,0,0,0,0
+42,"27,800 EUR",Saab,Cabrio,NaN,"147,799km",1985,Petrol,Saloon,Brown,NaN,Manual,0,0,0,0
+43,"6,950 EUR",Saab,900,NaN,"225,500km",1985,Petrol,Classic,Red,NaN,Automatic,0,0,0,0
+44,"8,500 EUR",Saab,900,NaN,"256,300km",1985,Petrol,Small,Black,NaN,Automatic,0,0,0,0
+45,"3,800 EUR",Renault,R4,NaN,"98,000km",1985,Petrol,NaN,Red,NaN,Manual,0,0,0,0
+46,"10,000 EUR",Renault,Espace,NaN,"166,000km",1985,Petrol,NaN,Gray,NaN,Manual,0,0,0,0
+47,"2,500 EUR",Renault,R4,NaN,"100,000km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+48,"161,000 EUR",Renault,R5,NaN,"60,565km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+49,"1,950 EUR",Renault,R4,NaN,"130,743km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+50,"4,850 EUR",Renault,R4,NaN,"185,000km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+51,"9,600 EUR",Renault,R4,NaN,"88,600KM",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+52,"3,700 EUR",Renault,R4,NaN,"1,000km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+53,"3,500 EUR",Renault,R4,NaN,"129,000km",1985,Petrol,NaN,Yellow,NaN,Manual,0,0,0,0
+54,"2,150 EUR",Renault,R4,NaN,"130,743km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+55,"1,099 EUR",Peugeot,505,NaN,"197,500km",1985,Petrol,NaN,Gray,NaN,Manual,0,0,0,0
+56,"4,999 EUR",Peugeot,505,NaN,"119,000km",1985,Petrol,NaN,Gray,NaN,Automatic,0,0,0,0
+57,"11,499 EUR",Peugeot,505,NaN,"112,600km",1985,Petrol,NaN,Gray,NaN,Manual,0,0,0,0
+58,"6,250 EUR",Peugeot,505,NaN,"189,480km",1985,Petrol,NaN,Gray,NaN,Manual,0,0,0,0
+59,"15,000 EUR",Peugeot,505,NaN,"75,000km",1985,Petrol,NaN,Blue,NaN,Automatic,0,0,0,0
+60,"3,000 EUR",Peugeot,505,NaN,"230,000km",1985,Diesel,NaN,White,NaN,Manual,0,0,0,0
+61,"1,800 EUR",Peugeot,505,NaN,"270,000km",1985,Diesel,NaN,White,NaN,Manual,0,0,0,0
+62,"1,700 EUR",Peugeot,505,NaN,"119,000km",1985,Diesel,NaN,White,NaN,Manual,0,0,0,0
+63,"1,500 EUR",Peugeot,505,NaN,"158,000km",1985,Diesel,NaN,Green,NaN,Manual,0,0,0,0
+64,"4,990 EUR",Peugeot,505,NaN,"152,000km",1985,Petrol,NaN,Gray,NaN,Automatic,0,0,0,0
+65,"2,400 EUR",Peugeot,505,NaN,"299,012km",1985,Diesel,NaN,Gray,NaN,Automatic,0,0,0,0
+66,"6,600 EUR",Jaguar,Xjs,NaN,"57,003km",1985,Petrol,Convertible,Black,NaN,Automatic,0,0,0,0
+67,"14,500 EUR",Jaguar,Xj,NaN,"155,500km",1985,Petrol,Sedan,Black,NaN,Automatic,0,0,0,0
+68,"29,950 EUR",Jaguar,Xj,NaN,"33,521km",1985,Petrol,NaN,Red,NaN,Automatic,0,0,0,0
+69,"21,950 EUR",Jaguar,Xjs,NaN,"127,800km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+70,"10,800 EUR",Jaguar,Xj,NaN,"71,000km",1985,Petrol,NaN,Black,NaN,Manual,0,0,0,0
+71,"30,950 EUR",Jaguar,Xjs,NaN,"127,800km",1985,Petrol,NaN,White,NaN,Automatic,0,0,0,0
+72,"7,450 EUR",Jaguar,Xj,NaN,"98,897km",1985,Diesel,NaN,Gray,NaN,Automatic,0,0,0,0
+73,"6,781 EUR",Plymouth,Gran Fury,NaN,"64,373km",1985,Petrol,NaN,Red,NaN,Manual,0,0,0,0
+74,"1,356 EUR",Plymouth,Caravelle Turbo,NaN,"104,382km",1985,Petrol,Sedan,Gray,NaN,Manual,0,0,0,0
+75,"4,950 EUR",Audi,80,NaN,"123,628km",1985,Petrol,NaN,Pink,55 kW (75 HP),Manual,0,0,0,0
+76,"1,500 EUR",Audi,80,NaN,"230,000km",1985,Petrol,NaN,Gray,55 kW (75 HP),Manual,0,0,0,0
+77,"1,750 EUR",Audi,80,NaN,"123,628km",1985,Petrol,NaN,Red,55 kW (75 HP),Manual,0,0,0,0
+78,"2,995 EUR",Audi,80,NaN,"182,000km",1985,Petrol,NaN,Brown,55 kW (75 HP),Manual,0,0,0,0
+79,"3,700 EUR",Audi,80,NaN,"109,000km",1985,Petrol,NaN,Black,66 kW (90 HP),Automatic,0,0,0,0
+80,"4,500 EUR",Audi,80,NaN,"88,336km",1985,Petrol,NaN,Gray,66 kW (90 HP),Manual,0,0,0,0
+81,"11,781 EUR",Dodge,RAM 250,NaN,"136,123km",1985,Petrol,NaN,Pink,NaN,Manual,0,0,0,0
+82,"5,600 EUR",Dodge,RAM 100,NaN,"67,231km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+83,"7,620 EUR",Dodge,RAM 250,NaN,"250,172km",1985,Petrol,NaN,Blue,NaN,Manual,0,0,0,0
+84,"42,373 EUR",Dodge,RAM 350,NaN,"130,350km",1985,Petrol,NaN,White,NaN,Manual,0,0,0,0
+85,"8,471 EUR",Dodge,RAM 350,NaN,"118,671km",1985,Petrol,NaN,Red,NaN,Manual,0,0,0,0
+86,"27,500 EUR",Mercedes Benz,Sl-Class,600 SL,"151,092 km",1985,Petrol,Convertible,Purple,136 kW (185 HP),Automatic,0,0,0,0
+87,"17,490 EUR",Mercedes Benz,Ml-Class,350 CDI,"222,578 km",1985,Diesel,N/A,Green,170 kW (231 HP),Automatic,0,0,0,0
+88,"19,535 EUR (21,500 CHF)",Nissan,Micra,1.0,250 km,1985,Petrol,N/A,Gray,68 kW (92 HP),Automatic,0,0,0,0
+89,"11,900 EUR",Toyota,Mr2,1.6,"195,000 km",1985,Petrol,,Red,91 kW (124 HP),Manual,0,0,0,0
+90,"15,783 EUR (17,500 USD)",Porsche,928,4.7 S,"49,880 mi",1985,Petrol,Coupe,White,,Manual,0,0,0,0
+91,"19,990 EUR",Mercedes Benz,S-Class,55 AMG,"126,879 km",1985,Petrol,Sedan,Green,265 kW (360 HP),Automatic,0,0,0,0
+92,"2,701 EUR (2,995 USD)",Mercedes Benz,190,,"130,656 mi",1985,,Sedan,Green,,Automatic,0,0,0,0
+93,"15,990 EUR",Bmw,7 Series,,"11,000 km",1985,Petrol,Sedan,Orange,187 kW (254 HP),,0,0,0,0
+94,"24,800 EUR",Mercedes Benz,Sl-Class,,"155,000 km",1985,Petrol,Convertible,White,,,0,0,0,0
+95,"5,500 EUR",Alfa Romeo,90,2.0,"65,000 km",1985,Petrol,Sedan,White,,Manual,0,0,0,0
+96,"71,850 EUR",Porsche,911 Turbo,,"129,930 km",1985,Petrol,,Red,172 kW (234 HP),Manual,0,0,0,0
+97,"22,715 EUR (25,000 CHF)",Mercedes Benz,500,5.0 SEL,"115,135 km",1985,Petrol,Sedan,Gray,172 kW (234 HP),Automatic,0,0,0,0
+98,"12,500 EUR",Mercedes Benz,S-Class,,"150,141 km",1985,Petrol,,Green,,Automatic,0,0,0,0
+99,"18,500 EUR",Mercedes Benz,S-Class,,"133,000 km",1985,Petrol,,Gray,,,0,0,0,0
+100,"10,500 EUR",Bmw,5 Series,520i,"183,194 km",1985,Petrol,Sedan,Silver,90 kW (122 HP),,0,0,0,0
+101,"19,500 EUR",Porsche,944,2.5,"229,161 km",1985,Petrol,Coupe,Brown,164 kW (223 HP),,0,0,0,0
+102,"29,950 EUR",Mercedes Benz,S-Class,280 S,"27,874 km",1985,Petrol,Sedan,Silver,115 kW (156 HP),,0,0,0,0
+103,"33,165 EUR (36,500 CHF)",Nissan,Leaf,,"1,100 km",1985,Electric,N/A,Gray,161 kW (219 HP),Automatic,0,0,0,0
+104,"21,990 EUR",Mercedes Benz,B-Class,,"214,000 km",1985,Petrol,,Black,172 kW (234 HP),,0,0,0,0
+105,"14,000 EUR",Porsche,944,2.5,"135,000 km",1985,Petrol,Coupe,Gray,121 kW (165 HP),,0,0,1,0
+106,"2,950 EUR",Mercedes Benz,E-Class,230,"166,340 km",1985,Petrol,Sedan,White,,Manual,0,0,0,0
+107,"45,950 EUR",Mercedes Benz,Sl-Class,500 SL,"195,000 km",1985,Petrol,Convertible,Blue,171 kW (233 HP),,0,0,0,0
+108,"54,900 EUR",Mercedes Benz,Sl-Class,300 SL,"116,000 km",1985,Petrol,Convertible,Green,140 kW (190 HP),Automatic,0,0,0,0
+109,"12,900 EUR",Jaguar,Xj,4.2,"137,114 km",1985,Petrol,Sedan,Red,152 kW (207 HP),Automatic,0,0,0,0
+110,"6,950 EUR",Mercedes Benz,200,,"194,875 km",1985,Petrol,Sedan,White,122 kW (166 HP),Manual,0,0,0,0
+111,"22,625 EUR (24,900 CHF)",Volkswagen,Transporter,1.9,"60,000 km",1985,Petrol,N/A,Red,76 kW (103 HP),Manual,0,0,0,0
+112,"3,900 EUR",Volkswagen,Golf,,"238,000 km",1985,Petrol,Convertible,Gray,,Manual,0,0,0,0
+113,"6,950 EUR",Saab,900,2.1 i,"225,500 km",1985,Petrol,,Red,87 kW (118 HP),,0,0,0,1
+114,"39,500 EUR",Mercedes Benz,560,5.5 SL,"79,661 km",1985,,Convertible,White,169 kW (230 HP),Automatic,0,0,0,0
+115,"46,000 EUR",Porsche,911,3.2,"267,000 km",1985,Petrol,Coupe,Gray,169 kW (230 HP),Manual,0,0,0,0
+116,"17,435 EUR",Nissan,300zx,,"59,297 km",1985,Petrol,Coupe,Gray,,Automatic,0,0,0,0
+117,"9,200 EUR",Alfa Romeo,Alfa 6,2.0,"128,000 km",1985,Petrol,Sedan,Brown,99 kW (135 HP),,0,0,0,0
+118,"43,800 EUR",Toyota,Land Cruiser,3.0 D-4d,,1985,Diesel,N/A,Blue,,Manual,0,0,0,0
+119,"6,999 EUR",Mercedes Benz,200,,"432,360 km",1985,Diesel,Sedan,White,96 kW (131 HP),Automatic,0,0,0,0
+120,"11,900 EUR",Mercedes Benz,190,2.5 D,"116,847 km",1985,Diesel,Sedan,Red,66 kW (90 HP),Automatic,0,0,0,0
+121,"19,030 EUR (20,944 CHF)",Porsche,944,2.5,"206,000 km",1985,Petrol,Coupe,Gray,121 kW (165 HP),Manual,0,0,0,0
+122,"7,900 EUR",Toyota,Hilux,2.2,"262,490 km",1985,Petrol,N/A,White,,Automatic,0,0,0,0
+123,"39,900 EUR",Mercedes Benz,Sl-Class,5.6 560 SL,"100,000 km",1985,Petrol,Convertible,Blue,178 kW (242 HP),Automatic,0,0,0,0
+124,"8,650 EUR",Jaguar,Xj,5.3 V12,"112,853 km",1985,Petrol,Sedan,,223 kW (303 HP),Automatic,0,0,0,0
+125,"45,800 EUR",Mercedes Benz,190,2.3,"96,393 km",1985,Petrol,Sedan,Black,136 kW (185 HP),Manual,0,0,0,0
+126,"6,000 EUR",Fiat,Ritmo,1.5,"46,919 km",1985,Petrol,Convertible,Silver,60 kW (82 HP),Manual,0,0,0,0
+127,"22,800 EUR",Mercedes Benz,B-Class,,"258,290 km",1985,Petrol,,Purple,137 kW (186 HP),,0,0,0,0
+128,"4,999 EUR",Mercedes Benz,200,,"217,354 km",1985,Petrol,Sedan,Beige,97 kW (132 HP),,0,0,0,0
+129,"47,000 EUR",Mercedes Benz,190,2.3,96 km,1985,Petrol,Sedan,Black,136 kW (185 HP),Manual,0,0,0,0
+130,"6,900 EUR",Mercedes Benz,200,200 D,"262,407 km",1985,Diesel,Sedan,Green,53 kW (72 HP),Manual,0,0,0,0
+131,"11,900 EUR",Mercedes Benz,260,,"181,000 km",1985,Petrol,Sedan,Green,,,0,0,0,0
+132,"46,000 EUR",Porsche,911,3.2,"216,000 km",1985,Petrol,,Blue,172 kW (234 HP),,0,0,0,0
+133,"23,524 EUR (25,890 CHF)",Porsche,928,4.7 S,"180,950 km",1985,Petrol,Coupe,Beige,231 kW (314 HP),Automatic,0,0,0,0
+134,"53,000 EUR",Porsche,911,,"13,000 km",1985,,Coupe,,,,0,0,0,0
+135,"3,490 EUR",Mercedes Benz,200,,"232,013 km",1985,,Sedan,Gray,100 kW (136 HP),Manual,0,0,0,0
+136,"18,450 EUR",Mercedes Benz,Sl-Class,380 SL,"77,100 km",1985,Petrol,Convertible,Blue,114 kW (155 HP),Automatic,0,0,0,0
+137,"6,250 EUR",Mercedes Benz,280,2.8,"270,725 km",1985,Petrol,,White,136 kW (185 HP),Manual,0,0,0,0
+138,"9,999 EUR",Volkswagen,Golf,,"203,001 km",1985,Petrol,,Gray,84 kW (114 HP),,0,0,0,0
+139,"44,206 EUR (188,650 PLN)",Bmw,M6,,"218,991 km",1985,Petrol,,Silver,117 kW (159 HP),Manual,0,0,0,0
+140,"2,450 EUR",Mazda,323,1.5,"96,415 km",1985,Petrol,Sedan,Green,54 kW (73 HP),Manual,0,0,0,0
+141,"44,900 EUR",Mercedes Benz,Sl-Class,500,"139,000 km",1985,Petrol,Convertible,Blue,180 kW (245 HP),,0,0,0,0
+142,"12,949 EUR",Audi,A1,1.4 TFSI,"124,649 km",1985,Petrol,N/A,Black,136 kW (185 HP),Automatic,0,0,0,0
+143,"75,000 EUR",Porsche,911,3.2,"150,000 km",1985,Petrol,Coupe,Gold,172 kW (234 HP),Manual,0,0,0,0
+144,"11,490 EUR",Toyota,Yaris,1.0,,1985,Petrol,Sedan,Gray,,Manual,0,0,0,0
+145,"499,000 EUR",Audi,Quattro,2.1 Sport,"53,659 km",1985,Petrol,Coupe,Red,,,0,0,0,0
